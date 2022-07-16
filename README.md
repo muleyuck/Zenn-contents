@@ -1,3 +1,3 @@
-# Zenn CLI
+# Zenn 記事用リポジトリ
 
-* [📘 How to use](https://zenn.dev/zenn/articles/zenn-cli-guide)
+- [📘 こちらで記事公開しています](https://zenn.dev/takuty)
