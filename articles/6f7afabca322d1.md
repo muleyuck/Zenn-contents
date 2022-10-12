@@ -226,6 +226,10 @@ $ docker-compose down
 Docker 初心者からですとざっくりしたものしかイメージしづらいので、なんとなくコンテナ起動できればいいかとなりがちです。
 なのでコンテナを起動するまでの流れや Dockerfile、Docker-compose の意味などを理解することがいいと思います。
 そうすることで開発言語等が変わったとしても比較的簡単対応できるようになるのかと考えています。
+
+Heroku へデプロイする記事も投稿していますので参考にしてみてください。
+https://zenn.dev/takuty/articles/b7aa6164fc85bb
+
 今回扱ったファイルを GitHub に上げています。
 https://github.com/Takuty-a11y/Rails-Docker-Sample
 
