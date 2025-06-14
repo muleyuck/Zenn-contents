@@ -231,7 +231,7 @@ Heroku へデプロイする記事も投稿していますので参考にして�
 https://zenn.dev/takuty/articles/b7aa6164fc85bb
 
 今回扱ったファイルを GitHub に上げています。
-https://github.com/Takuty-a11y/Rails-Docker-Sample
+https://github.com/muleyuck/Rails-Docker-Sample
 
 # 参考資料
 
